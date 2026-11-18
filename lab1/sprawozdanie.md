@@ -100,6 +100,6 @@ $env:TMPDIR = 'D:\MSI\lab1\project\results'
 
 ## Załączniki
 
-**Zapis sesji.** [01 – wykonanie laboratorium](sesje/01-sesja-laboratorium.md). To zapis Markdown przygotowany z historii Codexa, obejmujący główną rozmowę oraz polecenia i wyniki ćwiczenia, w tym nieudane próby.
+**Zapis sesji.** [01 – wykonanie laboratorium](sesje/01-sesja-laboratorium.md). Dołączono eksport głównej sesji z Codexa w formacie Markdown.
 
-**Commit z plikami oddania.** [6ea93ec – pliki laboratorium 1](https://github.com/SleepingSurfer/Metody-Sztucznej-Inteligencji/commit/6ea93ec3083ca2542bd03d689b1c5680d1feeccd).
+**Commit z plikami oddania.** [b6c4e07 – pliki laboratorium 1](https://github.com/SleepingSurfer/Metody-Sztucznej-Inteligencji/commit/b6c4e077aa77f029f4f556929c722fcca3e04119).
